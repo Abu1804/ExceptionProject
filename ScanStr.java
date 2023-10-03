@@ -10,7 +10,7 @@ public class ScanStr {
 		System.out.print("Enter age");
 		int age = ab.nextInt();
 		if (age > 17) {
-			System.out.println("welcome to our portal");
+			System.out.println("welcome to our webPage");
 		} else {
 			throw new AgeException("you can't");
 			// System.out.println("your not eligible");
